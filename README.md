@@ -29,7 +29,7 @@ Each exercise folder contains:
 
 | Exercise | Status |
 |----------|--------|
-| Lucian's Luscious Lasagna | |
+| Lucian's Luscious Lasagna | ✅ Completed |
 
 ## Useful Resources 📚
 
