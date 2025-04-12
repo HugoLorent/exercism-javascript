@@ -30,6 +30,7 @@ Each exercise folder contains:
 | Exercise | Status |
 |----------|--------|
 | Lucian's Luscious Lasagna | ✅ Completed |
+| Annalyn's Infiltration | ✅ Completed |
 
 ## Useful Resources 📚
 
