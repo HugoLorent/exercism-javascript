@@ -32,6 +32,7 @@ Each exercise folder contains:
 | Lucian's Luscious Lasagna | ✅ Completed |
 | Annalyn's Infiltration | ✅ Completed |
 | Freelancer Rates | ✅ Completed |
+| Poetry Club Door Policy | ✅ Completed |
 
 ## Useful Resources 📚
 
