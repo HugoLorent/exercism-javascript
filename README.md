@@ -35,6 +35,7 @@ Each exercise folder contains:
 | Poetry Club Door Policy | ✅ Completed |
 | Elyses Enchantments | ✅ Completed |
 | Vehicle Purchase | ✅ Completed |
+| Bird Watcher | ✅ Completed |
 
 ## Useful Resources 📚
 
