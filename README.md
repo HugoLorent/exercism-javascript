@@ -33,6 +33,7 @@ Each exercise folder contains:
 | Annalyn's Infiltration | ✅ Completed |
 | Freelancer Rates | ✅ Completed |
 | Poetry Club Door Policy | ✅ Completed |
+| Elyses Enchantments | ✅ Completed |
 
 ## Useful Resources 📚
 
