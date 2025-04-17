@@ -34,6 +34,7 @@ Each exercise folder contains:
 | Freelancer Rates | ✅ Completed |
 | Poetry Club Door Policy | ✅ Completed |
 | Elyses Enchantments | ✅ Completed |
+| Vehicle Purchase | ✅ Completed |
 
 ## Useful Resources 📚
 
