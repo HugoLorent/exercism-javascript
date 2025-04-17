@@ -36,6 +36,7 @@ Each exercise folder contains:
 | Elyses Enchantments | ✅ Completed |
 | Vehicle Purchase | ✅ Completed |
 | Bird Watcher | ✅ Completed |
+| Mixed Juices | ✅ Completed |
 
 ## Useful Resources 📚
 
