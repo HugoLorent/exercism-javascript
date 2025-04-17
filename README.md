@@ -37,6 +37,7 @@ Each exercise folder contains:
 | Vehicle Purchase | ✅ Completed |
 | Bird Watcher | ✅ Completed |
 | Mixed Juices | ✅ Completed |
+| High Score Board | ✅ Completed |
 
 ## Useful Resources 📚
 
