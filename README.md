@@ -39,6 +39,7 @@ Each exercise folder contains:
 | Mixed Juices | ✅ Completed |
 | High Score Board | ✅ Completed |
 | Amusement Park | ✅ Completed |
+| Lucky Numbers | ✅ Completed |
 
 ## Useful Resources 📚
 
