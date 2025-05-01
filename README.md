@@ -40,6 +40,7 @@ Each exercise folder contains:
 | High Score Board | ✅ Completed |
 | Amusement Park | ✅ Completed |
 | Lucky Numbers | ✅ Completed |
+| Lasagna Master | ✅ Completed |
 
 ## Useful Resources 📚
 
