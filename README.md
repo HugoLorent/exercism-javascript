@@ -38,6 +38,7 @@ Each exercise folder contains:
 | Bird Watcher | ✅ Completed |
 | Mixed Juices | ✅ Completed |
 | High Score Board | ✅ Completed |
+| Amusement Park | ✅ Completed |
 
 ## Useful Resources 📚
 
