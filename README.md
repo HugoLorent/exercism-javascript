@@ -41,6 +41,7 @@ Each exercise folder contains:
 | Amusement Park | ✅ Completed |
 | Lucky Numbers | ✅ Completed |
 | Lasagna Master | ✅ Completed |
+| Elyses Destructured Enchantments | ✅ Completed |
 
 ## Useful Resources 📚
 
