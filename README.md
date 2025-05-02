@@ -42,6 +42,7 @@ Each exercise folder contains:
 | Lucky Numbers | ✅ Completed |
 | Lasagna Master | ✅ Completed |
 | Elyses Destructured Enchantments | ✅ Completed |
+| Coordinate Transformation | ✅ Completed |
 
 ## Useful Resources 📚
 
