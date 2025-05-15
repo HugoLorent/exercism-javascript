@@ -43,6 +43,7 @@ Each exercise folder contains:
 | Lasagna Master | ✅ Completed |
 | Elyses Destructured Enchantments | ✅ Completed |
 | Coordinate Transformation | ✅ Completed |
+| Fruit Picker | ✅ Completed |
 
 ## Useful Resources 📚
 
