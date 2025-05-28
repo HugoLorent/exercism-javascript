@@ -44,6 +44,7 @@ Each exercise folder contains:
 | Elyses Destructured Enchantments | ✅ Completed |
 | Coordinate Transformation | ✅ Completed |
 | Fruit Picker | ✅ Completed |
+| Elyses Analytic Enchantments | ✅ Completed |
 
 ## Useful Resources 📚
 
