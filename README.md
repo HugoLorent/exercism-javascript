@@ -46,6 +46,7 @@ Each exercise folder contains:
 | Fruit Picker | ✅ Completed |
 | Elyses Analytic Enchantments | ✅ Completed |
 | Elyses Looping Enchantments | ✅ Completed |
+| Elyses Transformative Enchantments | ✅ Completed |
 
 ## Useful Resources 📚
 
