@@ -48,6 +48,7 @@ Each exercise folder contains:
 | Elyses Looping Enchantments | ✅ Completed |
 | Elyses Transformative Enchantments | ✅ Completed |
 | Pizza Order | ✅ Completed |
+| Custom Signs | ✅ Completed |
 
 ## Useful Resources 📚
 
