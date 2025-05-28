@@ -47,6 +47,7 @@ Each exercise folder contains:
 | Elyses Analytic Enchantments | ✅ Completed |
 | Elyses Looping Enchantments | ✅ Completed |
 | Elyses Transformative Enchantments | ✅ Completed |
+| Pizza Order | ✅ Completed |
 
 ## Useful Resources 📚
 
