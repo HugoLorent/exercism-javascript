@@ -50,6 +50,7 @@ Each exercise folder contains:
 | Pizza Order | ✅ Completed |
 | Custom Signs | ✅ Completed |
 | Windowing System | ✅ Completed |
+| Ozan's Playlist | ✅ Completed |
 
 ## Useful Resources 📚
 
