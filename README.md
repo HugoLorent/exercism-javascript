@@ -52,6 +52,7 @@ Each exercise folder contains:
 | Windowing System | ✅ Completed |
 | Ozan's Playlist | ✅ Completed |
 | Factory Sensors | ✅ Completed |
+| Translation Service | ✅ Completed |
 
 ## Useful Resources 📚
 
