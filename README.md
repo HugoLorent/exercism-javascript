@@ -49,6 +49,7 @@ Each exercise folder contains:
 | Elyses Transformative Enchantments | ✅ Completed |
 | Pizza Order | ✅ Completed |
 | Custom Signs | ✅ Completed |
+| Windowing System | ✅ Completed |
 
 ## Useful Resources 📚
 
