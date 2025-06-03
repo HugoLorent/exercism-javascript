@@ -51,6 +51,7 @@ Each exercise folder contains:
 | Custom Signs | ✅ Completed |
 | Windowing System | ✅ Completed |
 | Ozan's Playlist | ✅ Completed |
+| Factory Sensors | ✅ Completed |
 
 ## Useful Resources 📚
 
